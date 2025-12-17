@@ -1,4 +1,4 @@
-## python
+# python
 a = int(input("Enter length a: "))
 b = int(input("Enter length b: "))
 c = int(input("Enter length c: "))
